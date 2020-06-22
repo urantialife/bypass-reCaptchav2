@@ -1,4 +1,4 @@
-![](https://www.shieldsquare.com/web/wp-content/uploads/2014/12/reCaptcha-ShieldSquare.gif)
+![](https://developers.google.com/recaptcha/images/newCaptchaAnchor.gif)
 
 ## How it works?
 
